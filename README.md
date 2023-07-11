@@ -13,7 +13,7 @@ BookAuthor          # The name of the book author
 BookISBN            # A valid ISBN code
 BookReleaseYear     # The release year of the book
 BookCategory        # The category to which the book belongs
-BookDescription     # (snly science type books) A brief description
+BookDescription     # (only science type books) A brief description
 ```
 
 The application must read/write the file, validate inputs, account for spelling mistakes (in Greek)
